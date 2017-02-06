@@ -10,10 +10,11 @@
 
     <dependencies>
         <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>servlet-api</artifactId>
-            <version>2.5</version>
-        </dependency>
+		    <groupId>javax.servlet</groupId>
+		    <artifactId>javax.servlet-api</artifactId>
+		    <version>3.1.0</version>
+		</dependency>
+
         <!-- http://mvnrepository.com/artifact/com.auth0/java-jwt -->
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
